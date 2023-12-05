@@ -1,0 +1,12 @@
+main:
+
+  - title: "Le livre d’or audio"
+    url: /
+  - title: "Galeries"
+    url: /galerie
+  - title: "Nos formules"
+    url: /nosformules/
+  - title: "Qui sommes-nous ?"
+    url: /quisommesnous/
+  - title: "Nous Contacter"
+    url: /contact/

@@ -1,0 +1,9 @@
+lefilasouvenirs:
+  name: "Le fil à souvenirs"
+  avatar: "/assets/images/1.png"
+  bio: "✨Une alternative aux traditionnels livres d’or écrits" # Note: Markdown is allowed
+  location: "Toulouse et ses environs"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/lefilasouvenirs/"
