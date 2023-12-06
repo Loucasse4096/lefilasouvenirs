@@ -13,14 +13,14 @@ header:
 ---
 
 <figure class="third">
-	<img src="/assets/images/index/1.png">
-	<img src="/assets/images/index/2.png">
-	<img src="/assets/images/index/3.png">
+	<img src="assets/images/index/1.png">
+	<img src="assets/images/index/2.png">
+	<img src="assets/images/index/3.png">
 </figure>
 
 <figure class="half">
-	<img src="/assets/images/index/4.png">
-	<img src="/assets/images/index/5.png">
+	<img src="assets/images/index/4.png">
+	<img src="assets/images/index/5.png">
     <figcaption>Nos Coloris</figcaption>
 </figure>
 
