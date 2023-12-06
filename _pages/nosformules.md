@@ -28,7 +28,7 @@ permalink: /nosformules/
           <li>Location de <b>18h à 12h</b> le lendemain</li>
           <li>Réstitution des audios par mail. Option restitution d'un pdf avec les audios transcrits +20&euro;</li>
         </ul>
-        <a href="#" class="button button1">Demander un devis !</a>
+        <a href="/contact/#demandez-un-devis-" class="button button1">Demander un devis !</a>
       </div>
       <div class="packages">
         <h1>Week-End</h1>
@@ -40,7 +40,7 @@ permalink: /nosformules/
           <li>Location du <b>vendredi soir au lundi matin</b></li>
           <li>Réstitution des audios par mail. Option restitution d'un pdf avec les audios transcrits +20&euro;</li>
         </ul>
-        <a href="#" class="button button2">Demander un devis !</a>
+        <a href="/contact/#demandez-un-devis-" class="button button2">Demander un devis !</a>
       </div>
     </div>
   </div>
@@ -66,6 +66,16 @@ check();
 </div>
 
 <style>
+a {
+  color: black; /* Remplacez 'black' par la couleur originale de vos liens */
+  text-decoration: none; /* Optionnel : enlève le soulignement des liens */
+}
+
+/* Pour maintenir la même couleur même après que le lien ait été visité */
+a:visited {
+  color: black; /* Remplacez 'black' par la couleur originale de vos liens */
+}
+
 @import url("https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap");
 
 

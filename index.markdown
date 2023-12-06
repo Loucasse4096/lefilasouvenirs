@@ -3,12 +3,26 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
+excerpt: "Bienvenue dans une nouvelle ère des souvenirs. Le livre d'or audio réinvente la tradition en capturant les voix et les émotions de vos invités."
+header:
+  overlay_image: /assets/images/header_index.jpeg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  actions:
+    - label: "Découvrez nos offres"
+      url: "/nosformules"
 ---
 
-<div class="intro-section">
-  <h1>Le Livre d’Or Audio</h1>
-  <p>Bienvenue dans une nouvelle ère des souvenirs. Le livre d'or audio réinvente la tradition en capturant les voix et les émotions de vos invités.</p>
-</div>
+<figure class="third">
+	<img src="/assets/images/index/1.png">
+	<img src="/assets/images/index/2.png">
+	<img src="/assets/images/index/3.png">
+</figure>
+
+<figure class="half">
+	<img src="/assets/images/index/4.png">
+	<img src="/assets/images/index/5.png">
+    <figcaption>Nos Coloris</figcaption>
+</figure>
 
 <div class="advantages-section">
   <h2>Pourquoi Choisir un Livre d'Or Audio ?</h2>
@@ -28,10 +42,6 @@ layout: single
   </ol>
 </div>
 
-<div class="testimonials-section">
-  <h2>Témoignages</h2>
-  <p>"Une expérience inoubliable..." - Jean Dupont</p>
-</div>
 
 <div class="faq-section">
   <h2>FAQ</h2>
@@ -41,5 +51,5 @@ layout: single
 
 <div class="call-to-action-section">
   <h2>Prêt à Créer Votre Livre d'Or Audio ?</h2>
-  <p><a href="/nous-contacter">Contactez-nous</a> pour plus d'informations ou pour commencer.</p>
+  <p><a href="/contact">Contactez-nous</a> pour plus d'informations ou pour commencer.</p>
 </div>

@@ -7,35 +7,35 @@ gallery:
   - url: /assets/images/posts/shooting_inspiration/1.jpeg
     image_path: /assets/images/posts/shooting_inspiration/1.jpeg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Shooting Mariage inspiration !"
   - url: /assets/images/posts/shooting_inspiration/2.jpeg
     image_path: /assets/images/posts/shooting_inspiration/2.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/posts/shooting_inspiration/1.jpeg
-    image_path: /assets/images/posts/shooting_inspiration/1.jpeg
+    title: "Shooting Mariage inspiration !"
+  - url: /assets/images/posts/shooting_inspiration/3.jpeg
+    image_path: /assets/images/posts/shooting_inspiration/3.jpeg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/posts/shooting_inspiration/2.jpeg
-    image_path: /assets/images/posts/shooting_inspiration/2.jpeg
+    title: "Shooting Mariage inspiration !"
+  - url: /assets/images/posts/shooting_inspiration/4.jpeg
+    image_path: /assets/images/posts/shooting_inspiration/4.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/posts/shooting_inspiration/1.jpeg
-    image_path: /assets/images/posts/shooting_inspiration/1.jpeg
+    title: "Shooting Mariage inspiration !"
+  - url: /assets/images/posts/shooting_inspiration/5.jpeg
+    image_path: /assets/images/posts/shooting_inspiration/5.jpeg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/posts/shooting_inspiration/2.jpeg
-    image_path: /assets/images/posts/shooting_inspiration/2.jpeg
+    title: "Shooting Mariage inspiration !"
+  - url: /assets/images/posts/shooting_inspiration/6.jpeg
+    image_path: /assets/images/posts/shooting_inspiration/6.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/posts/shooting_inspiration/1.jpeg
-    image_path: /assets/images/posts/shooting_inspiration/1.jpeg
+    title: "Shooting Mariage inspiration !"
+  - url: /assets/images/posts/shooting_inspiration/7.jpeg
+    image_path: /assets/images/posts/shooting_inspiration/7.jpeg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/posts/shooting_inspiration/2.jpeg
-    image_path: /assets/images/posts/shooting_inspiration/2.jpeg
+    title: "Shooting Mariage inspiration !"
+  - url: /assets/images/posts/shooting_inspiration/8.jpeg
+    image_path: /assets/images/posts/shooting_inspiration/8.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Shooting Mariage inspiration !"
 ---
 
 Shooting Mariage inspiration !
