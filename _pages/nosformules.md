@@ -28,7 +28,7 @@ permalink: /nosformules/
           <li>Location de <b>18h à 12h</b> le lendemain</li>
           <li>Réstitution des audios par mail. Option restitution d'un pdf avec les audios transcrits +20&euro;</li>
         </ul>
-        <a href="/contact/#demandez-un-devis-" class="button button1">Demander un devis !</a>
+        <a href="/lefilasouvenirs/contact/#demandez-un-devis" class="button button1">Demander un devis !</a>
       </div>
       <div class="packages">
         <h1>Week-End</h1>
@@ -40,7 +40,7 @@ permalink: /nosformules/
           <li>Location du <b>vendredi soir au lundi matin</b></li>
           <li>Réstitution des audios par mail. Option restitution d'un pdf avec les audios transcrits +20&euro;</li>
         </ul>
-        <a href="/contact/#demandez-un-devis-" class="button button2">Demander un devis !</a>
+        <a href="/lefilasouvenirs/contact/#demandez-un-devis" class="button button2">Demander un devis !</a>
       </div>
     </div>
   </div>

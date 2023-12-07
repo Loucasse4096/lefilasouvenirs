@@ -66,7 +66,7 @@ header:
 
 <style>
 
-  /* Style global pour les figures */
+/* Style global pour les figures */
 figure {
     margin: 20px auto; /* Centrage et espacement autour de chaque groupe d'images */
     text-align: center; /* Alignement central pour les éléments à l'intérieur */
@@ -103,19 +103,25 @@ figure img {
 
 /* Style de base pour les sections */
 .advantages-section, .how-it-works-section, .faq-section, .call-to-action-section {
-    background-color: #ffffff; /* Fond blanc pour plus de clarté */
-    color: #444;
-    font-family: 'Segoe UI', 'Arial', sans-serif;
+    background-color: #ecf0f1; /* Fond blanc pour plus de clarté */
+    color: #353b48;
+    font-family: 'Arial', sans-serif; /* Police cohérente avec le reste du design */
     padding: 25px; /* Padding augmenté */
     margin: 25px 0;
     border-radius: 12px; /* Bords plus arrondis */
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    font-family: serif;
 }
 
 /* Titres des sections */
 .advantages-section h2, .how-it-works-section h2, .faq-section h2, .call-to-action-section h2 {
-    color: #0056b3; /* Couleur de titre modifiée pour plus d'élégance */
+    color: #273c75; /* Couleur de titre modifiée pour plus d'élégance */
+    font-size: 30px; /* Taille de la police augmentée pour les titres des sections */
+    text-transform: uppercase; /* Mise en majuscule des titres */
+    font-weight: bold; /* Police en gras */
     margin-bottom: 20px;
+    text-align: center; /* Centrage des titres */
+    font-family: "Gill Sans", sans-serif;
 }
 
 /* Listes */
@@ -194,6 +200,35 @@ figure img {
     height: auto;
     border-radius: 10px;
     margin-left: 20px;
+}
+
+/* Ajouts pour correspondre à l'image fournie */
+/* Titre principal */
+.main-title {
+    font-size: 48px; /* Taille de la police plus grande pour le titre principal */
+    color: #002366; /* Couleur du titre principal */
+    text-align: center; /* Centrage du titre */
+    margin-bottom: 30px; /* Espacement après le titre */
+    font-weight: normal; /* Pas de gras pour le titre principal */
+}
+
+/* Sous-titre pour engagement */
+.subtitle-engagement {
+    font-size: 22px; /* Taille de la police pour les sous-titres */
+    color: #002366; /* Couleur pour les sous-titres */
+    text-align: center; /* Centrage du sous-titre */
+    font-weight: bold; /* Police en gras pour les sous-titres */
+    margin: 20px 0; /* Espacement autour du sous-titre */
+    text-transform: uppercase; /* Mise en majuscule du sous-titre */
+}
+
+/* Paragraphe de l'engagement */
+.engagement-text {
+    font-size: 18px; /* Taille de la police pour le paragraphe */
+    color: #002366; /* Couleur pour le paragraphe */
+    text-align: center; /* Centrage du paragraphe */
+    margin: 20px 0 30px; /* Espacement autour du paragraphe */
+    font-weight: 300; /* Police plus fine pour le paragraphe */
 }
 
 

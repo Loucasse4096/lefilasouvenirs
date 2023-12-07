@@ -85,6 +85,11 @@ Nous sommes ici pour répondre à toutes vos questions concernant la location de
     <textarea name="decouverte_filasouvenirs"></textarea>
   </label>
 
+  <label>
+    Une Question ? Une remarque ?
+    <textarea name="question"></textarea>
+  </label>
+
     <p>Prix estimé : <span id="prix">0</span> €</p>
 
   <button type="submit">Envoyer</button>
@@ -148,7 +153,7 @@ Vous pouvez également nous laisser un message en utilisant notre page [instagra
 
 
 body {
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/38816/image-from-rawpixel-id-2044837-jpeg.jpg") repeat;
+
     background-size: cover;
   background-attachment: fixed;
   display: flex;
