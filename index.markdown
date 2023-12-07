@@ -50,6 +50,12 @@ header:
   </ol>
 </div>
 
+<div class="how-it-works-section">
+  <h2>Notre engagement</h2>
+    <p>Nous proposons nos services à Toulouse et dans un rayon de 20 min, limitant ainsi les déplacements. Nous proposons également un service Clik and Collect permettant à nos clients ou leur entourage de venir récupérer notre matériel.</p>
+</div>
+
+
 
 <div class="faq-section">
   <h2>FAQ</h2>
@@ -103,7 +109,7 @@ figure img {
 
 /* Style de base pour les sections */
 .advantages-section, .how-it-works-section, .faq-section, .call-to-action-section {
-    background-color: #ecf0f1; /* Fond blanc pour plus de clarté */
+    background-color: #f9f9f9; /* Fond blanc pour plus de clarté */
     color: #353b48;
     font-family: 'Arial', sans-serif; /* Police cohérente avec le reste du design */
     padding: 25px; /* Padding augmenté */
