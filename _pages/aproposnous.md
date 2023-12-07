@@ -55,6 +55,29 @@ Nous sommes Lucas et Guillaume, co-fondateurs d'une idée révolutionnaire dans 
 
 
 <style>
+
+.text-blk.section-body {
+    color: #333; /* Couleur du texte sombre pour une meilleure lisibilité */
+    font-family: 'Arial', sans-serif; /* Police moderne et lisible */
+    font-size: 16px; /* Taille de police adaptée pour une lecture confortable */
+    line-height: 1.6; /* Espacement des lignes pour une meilleure lisibilité */
+    margin: 0 auto; /* Centrage du paragraphe */
+    max-width: 800px; /* Largeur maximale pour une bonne lisibilité sur tous les appareils */
+    padding: 20px; /* Espace autour du texte pour éviter qu'il touche les bords */
+    background-color: #f9f9f9; /* Couleur de fond légère pour contraster avec le texte */
+    border-left: 4px solid #007bff; /* Bordure sur le côté gauche pour une touche d'élégance */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Ombre légère pour un effet de profondeur */
+}
+
+/* Pour les écrans plus petits, comme les téléphones mobiles */
+@media (max-width: 600px) {
+    .text-blk.section-body {
+        font-size: 14px; /* Taille de police légèrement plus petite pour les petits écrans */
+        padding: 15px; /* Moins d'espace autour du texte sur les petits appareils */
+    }
+}
+
+
 .icon-block svg {
   width: 100%;
   height: 100%;
