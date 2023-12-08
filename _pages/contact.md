@@ -36,7 +36,7 @@ Nous sommes ici pour répondre à toutes vos questions concernant la location de
     Durée de l'événement :
     <select name="duree_evenement" id="duree_evenement">
       <option value="0">Soirée</option>
-      <option value="50">Week-End</option>
+      <option value="100">Week-End</option>
     </select>
   </label>
       <label>

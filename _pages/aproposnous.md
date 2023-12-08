@@ -21,14 +21,14 @@ Nous sommes Lucas et Guillaume, co-fondateurs d'une idée révolutionnaire dans 
         <div class="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8 wk-desk-6 card-container">
           <div class="card">
             <div class="img-box">
-              <img class="person-img" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/person1.png">
+              <img class="person-img" src="/assets/images/team/lucas.JPG">
             </div>
             <div class="card-content-box">
               <p class="text-blk person-name">
-                Nairobi Nora
+                Lucas
               </p>
               <p class="text-blk person-info">
-                Lorem ipsum dolor
+                Co-fondateur
               </p>
             </div>
           </div>
@@ -36,14 +36,14 @@ Nous sommes Lucas et Guillaume, co-fondateurs d'une idée révolutionnaire dans 
         <div class="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8 wk-desk-6 card-container">
           <div class="card">
             <div class="img-box">
-              <img class="person-img" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/person2.png">
+              <img class="person-img" src="/assets/images/team/guillaume.JPG">
             </div>
             <div class="card-content-box">
               <p class="text-blk person-name">
-                Nairobi Nora
+                Guillaume
               </p>
               <p class="text-blk person-info">
-                Lorem ipsum dolor
+                Co-fondateur
               </p>
             </div>
           </div>
@@ -54,7 +54,15 @@ Nous sommes Lucas et Guillaume, co-fondateurs d'une idée révolutionnaire dans 
 </div>
 
 
+
+
+
+
+
+
 <style>
+
+
 
 .text-blk.section-body {
     color: #333; /* Couleur du texte sombre pour une meilleure lisibilité */
@@ -408,3 +416,4 @@ Nous sommes Lucas et Guillaume, co-fondateurs d'une idée révolutionnaire dans 
 
 </style>
 <body>
+
