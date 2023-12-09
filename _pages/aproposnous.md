@@ -36,7 +36,7 @@ Nous sommes Lucas et Guillaume, co-fondateurs d'une idée révolutionnaire dans 
         <div class="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8 wk-desk-6 card-container">
           <div class="card">
             <div class="img-box">
-              <img class="person-img" src="/assets/images/team/guillaume.JPG">
+              <img class="person-img" src="/assets/images/team/guillaume.jpeg">
             </div>
             <div class="card-content-box">
               <p class="text-blk person-name">

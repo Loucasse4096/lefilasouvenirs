@@ -23,8 +23,6 @@ gallery:
 
 ---
 
-Anniversaire de Maxime !
-
 <a href="javascript:history.back()" class="back-button">
   &#8592; Retour
 </a>
