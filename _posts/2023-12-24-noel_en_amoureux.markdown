@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Anniversaire Maxime !"
+title:  "Noël en amoureux"
 date:   2023-03-15 16:16:01 -0600
 categories: mariage
 gallery:
   - url: https://drive.google.com/uc?export=view&id=1p0rPROTg8OglAxeu4l76yCStbelFbana
     image_path: https://drive.google.com/uc?export=view&id=1p0rPROTg8OglAxeu4l76yCStbelFbana
     alt: "placeholder image 1"
-    title: "Anniversaire de Maxime !"
+    title: "Noël en amoureux"
   - url: https://drive.google.com/uc?export=view&id=1vNvfFKqOMPl8bGneCyC3NXn3UHsZa4DD
     image_path: https://drive.google.com/uc?export=view&id=1vNvfFKqOMPl8bGneCyC3NXn3UHsZa4DD
     alt: "placeholder image 2"
-    title: "Anniversaire de Maxime !"
+    title: "Noël en amoureux"
   - url: https://drive.google.com/uc?export=view&id=1WC6XdUcaaiGuzhp1OpuTilnfFHMzOiEW
     image_path: https://drive.google.com/uc?export=view&id=1WC6XdUcaaiGuzhp1OpuTilnfFHMzOiEW
     alt: "placeholder image 1"
-    title: "Anniversaire de Maxime !"
+    title: "Noël en amoureux"
   - url: https://drive.google.com/uc?export=view&id=1uY6pc-1B7LxcuvGFu-jYbfcQw6ITWWzn
     image_path: https://drive.google.com/uc?export=view&id=1uY6pc-1B7LxcuvGFu-jYbfcQw6ITWWzn
     alt: "placeholder image 2"
-    title: "Anniversaire de Maxime !"
+    title: "Noël en amoureux"
 
 ---
 
