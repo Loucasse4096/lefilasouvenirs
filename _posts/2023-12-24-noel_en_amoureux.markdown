@@ -20,6 +20,16 @@ gallery:
     image_path: https://drive.google.com/uc?export=view&id=1uY6pc-1B7LxcuvGFu-jYbfcQw6ITWWzn
     alt: "placeholder image 2"
     title: "Noël en amoureux"
+  - url: https://drive.google.com/uc?export=view&id=1TY_Yxt-ryzVb0miAqmEI7mdayP3EotN5
+    image_path: https://drive.google.com/uc?export=view&id=1TY_Yxt-ryzVb0miAqmEI7mdayP3EotN5
+    alt: "placeholder image 2"
+    title: "Noël en amoureux"
+  - url: https://drive.google.com/uc?export=view&id=1AD0R59vvci8Qg5UGL1yxK6WbSis-lt15
+    image_path: https://drive.google.com/uc?export=view&id=1AD0R59vvci8Qg5UGL1yxK6WbSis-lt15
+    alt: "placeholder image 2"
+    title: "Noël en amoureux"
+
+
 
 ---
 
