@@ -56,6 +56,9 @@ ul.slides input {
     font-size: 100px;
     line-height: 600px;
     color: #fff;
+    z-index: 2; /* Assurez-vous que les contrôles sont au-dessus du bouton */
+
+
 }
 
 .carousel-controls label {
@@ -137,7 +140,9 @@ input:checked + .slide-container .nav label { display: block; }
 .page__hero--overlay a { color: #fff; }
 .page__hero--overlay .wrapper { padding-left: 1em; padding-right: 1em; }
 @media (min-width: 80em) { .page__hero--overlay .wrapper { max-width: 1280px; } }
-.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn { color: #fff; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5); }
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn { color: #fff; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);  /* Assurez-vous que les contrôles sont au-dessus du bouton */
+    
+
 .page__hero--overlay .page__lead { max-width: 768px; }
 .page__hero--overlay .page__title { font-size: 1.953em; }
 @media (min-width: 37.5em) { .page__hero--overlay .page__title { font-size: 2.441em; } }
